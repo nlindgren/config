@@ -87,5 +87,3 @@ noautosub="yes"
 [protocol.dvdnav]
 mouse-movements="yes"
 nocache="yes"
-
-# Updated: 19 June 2015
