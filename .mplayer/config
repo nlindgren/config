@@ -3,8 +3,8 @@
 #==========#
 
 ass="yes"
-ass-color="ffff0000"
 ass-border-color="00000000"
+ass-color="ffff0000"
 ass-font-scale="01"
 ass-force-style="PlayResX=480,PlayResY=320"
 ass-hinting="7"
@@ -28,8 +28,8 @@ subpos="100"
 # Miscellaneous #
 #===============#
 
-cache="32768"
 cache-min="50"
+cache="32768"
 nojoystick="yes"
 nolirc="yes"
 pausing="2"
