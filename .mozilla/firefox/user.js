@@ -12,6 +12,7 @@ user_pref("browser.safebrowsing.downloads.enabled", false);
 user_pref("browser.safebrowsing.enabled", true);
 user_pref("browser.safebrowsing.enabled", true);
 user_pref("browser.safebrowsing.malware.enabled", true);
+user_pref("browser.search.context.loadInBackground", true);
 user_pref("browser.search.countryCode", "US");
 user_pref("browser.search.geoip.url", "");
 user_pref("browser.search.region", "US");
