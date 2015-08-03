@@ -72,6 +72,7 @@ user_pref("privacy.trackingprotection.enabled", true);
 user_pref("security.cert_pinning.enforcement_level", 2);
 user_pref("security.csp.experimentalEnabled", true);
 user_pref("security.ssl.treat_unsafe_negotiation_as_broken", true);
+user_pref("security.tls.unrestricted_rc4_fallback", false);
 user_pref("security.xpconnect.plugin.unrestricted", false);
 user_pref("signon.autofillForms", false);
 user_pref("webgl.disabled", true);
