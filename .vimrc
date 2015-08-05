@@ -27,3 +27,7 @@ set wrap
 
 "Stop logging
 set viminfo=
+
+"Keyboard shortcuts
+map! [[ {
+map! ]] }
