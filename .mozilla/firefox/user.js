@@ -58,6 +58,8 @@ user_pref("network.IDN_show_punycode", true);
 user_pref("network.predictor.enabled", false);
 user_pref("network.prefetch-next", false);
 user_pref("network.proxy.socks_remote_dns", true);
+user_pref("pdfjs.disabled", true);
+user_pref("pdfjs.enableWebGL", false);
 user_pref("privacy.clearOnShutdown.cache", true);
 user_pref("privacy.clearOnShutdown.cookies", true);
 user_pref("privacy.clearOnShutdown.downloads", true);
