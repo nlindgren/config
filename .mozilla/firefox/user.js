@@ -66,6 +66,7 @@ user_pref("loop.enabled", false);
 user_pref("media.eme.enabled", false);
 user_pref("media.getusermedia.screensharing.enabled", false);
 user_pref("media.gmp-manager.url", "");
+user_pref("media.gmp-provider.enabled", false);
 user_pref("media.navigator.enabled", false);
 user_pref("media.peerconnection.enabled", false);
 user_pref("media.webspeech.recognition.enable", false);
