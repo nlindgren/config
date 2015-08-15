@@ -52,6 +52,7 @@ user_pref("dom.gamepad.enabled", false);
 user_pref("dom.telephony.enabled", false);
 user_pref("dom.vr.enabled", false);
 user_pref("extensions.blocklist.enabled", true);
+user_pref("extensions.getAddons.cache.enabled", false);
 user_pref("extensions.update.enabled", true);
 user_pref("full-screen-api.approval-required", false);
 user_pref("geo.enabled", false);
