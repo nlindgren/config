@@ -52,6 +52,7 @@ volume="40"
 
 double="yes"
 dr="yes"
+fixed-vo="yes"
 framedrop="no"
 geometry="50%:50%"
 hardframedrop="no"
