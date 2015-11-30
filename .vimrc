@@ -31,3 +31,9 @@ set viminfo=
 "Keyboard shortcuts
 map! [[ {
 map! ]] }
+
+"Search
+set ignorecase
+set smartcase
+set hlsearch
+set incsearch
