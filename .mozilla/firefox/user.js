@@ -1,4 +1,4 @@
-/* Last Update: November 30, 2014 */
+/* Last Update: December 20, 2014 */
 user_pref("beacon.enabled", false);
 user_pref("browser.aboutHomeSnippets.updateUrl", "");
 user_pref("browser.bookmarks.max_backups", 1);
@@ -106,6 +106,7 @@ user_pref("privacy.clearOnShutdown.sessions", true);
 user_pref("privacy.clearOnShutdown.siteSettings", true);
 user_pref("privacy.sanitize.sanitizeOnShutdown", true);
 user_pref("privacy.trackingprotection.enabled", true);
+user_pref("privacy.trackingprotection.pbmode.enabled", true);
 user_pref("security.ask_for_password", 0);
 user_pref("security.cert_pinning.enforcement_level", 2);
 user_pref("security.csp.enable", true);
@@ -144,3 +145,4 @@ user_pref("signon.rememberSignons", false);
 user_pref("toolkit.telemetry.enabled", false);
 user_pref("toolkit.telemetry.unified", false);
 user_pref("webgl.disabled", true);
+user_pref("xpinstall.signatures.required", true);
