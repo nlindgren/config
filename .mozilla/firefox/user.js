@@ -1,4 +1,4 @@
-/* Last Update: December 20, 2014 */
+/* Last Update: January 21, 2016 */
 user_pref("beacon.enabled", false);
 user_pref("browser.aboutHomeSnippets.updateUrl", "");
 user_pref("browser.bookmarks.max_backups", 1);
