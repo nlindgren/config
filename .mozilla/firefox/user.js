@@ -118,6 +118,7 @@ user_pref("security.mixed_content.block_active_content", true);
 user_pref("security.mixed_content.block_display_content", false);
 user_pref("security.OCSP.enabled", 1);
 user_pref("security.OCSP.require", true);
+user_pref("security.pki.sha1_enforcement_level", 1);
 user_pref("security.sri.enable", true);
 user_pref("security.ssl3.dhe_rsa_aes_128_sha", false);
 user_pref("security.ssl3.dhe_rsa_aes_256_sha", false);
