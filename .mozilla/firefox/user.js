@@ -1,4 +1,4 @@
-/* Last Update: February 03, 2016 */
+/* Last Update: February 24, 2016 */
 user_pref("beacon.enabled", false);
 user_pref("browser.aboutHomeSnippets.updateUrl", "");
 user_pref("browser.bookmarks.max_backups", 1);
@@ -63,12 +63,15 @@ user_pref("extensions.blocklist.enabled", true);
 user_pref("extensions.getAddons.cache.enabled", false);
 user_pref("extensions.update.enabled", true);
 user_pref("full-screen-api.approval-required", false);
+user_pref("general.buildID.override", "20100101");
 user_pref("geo.enabled", false);
 user_pref("geo.wifi.uri", "127.0.0.1");
+user_pref("gfx.direct2d.disabled", true);
 user_pref("gfx.font_rendering.opentype_svg.enabled", false);
 user_pref("image.animation_mode", "none");
 user_pref("javascript.options.asmjs", false);
 user_pref("keyword.enabled", false);
+user_pref("layers.acceleration.disabled", true);
 user_pref("layout.css.report_errors", false);
 user_pref("layout.css.visited_links_enabled", false);
 user_pref("loop.enabled", false);
@@ -105,8 +108,6 @@ user_pref("privacy.clearOnShutdown.history", true);
 user_pref("privacy.clearOnShutdown.offlineApps", true);
 user_pref("privacy.clearOnShutdown.passwords", true);
 user_pref("privacy.clearOnShutdown.sessions", true);
-user_pref("privacy.clearOnShutdown.siteSettings", true);
-user_pref("privacy.sanitize.sanitizeOnShutdown", true);
 user_pref("privacy.trackingprotection.enabled", true);
 user_pref("privacy.trackingprotection.pbmode.enabled", true);
 user_pref("security.ask_for_password", 0);
