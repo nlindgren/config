@@ -1,4 +1,4 @@
-/* Last Update: February 24, 2016 */
+/* Last Update: April 29, 2016 */
 user_pref("beacon.enabled", false);
 user_pref("browser.aboutHomeSnippets.updateUrl", "");
 user_pref("browser.bookmarks.max_backups", 1);
@@ -37,6 +37,7 @@ user_pref("browser.sessionhistory.max_total_viewers", 1);
 user_pref("browser.sessionstore.max_tabs_undo", 2);
 user_pref("browser.sessionstore.privacy_level", 2);
 user_pref("browser.shell.checkDefaultBrowser", false);
+user_pref("browser.startup.page", 0);
 user_pref("browser.tabs.loadDivertedInBackground", true);
 user_pref("browser.urlbar.autocomplete.enabled", false);
 user_pref("browser.urlbar.autoFill", false);
