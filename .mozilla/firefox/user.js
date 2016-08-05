@@ -1,4 +1,4 @@
-/* Last Update: July 28, 2016 */
+/* Last Update: August 5, 2016 */
 user_pref("beacon.enabled", false);
 user_pref("browser.aboutHomeSnippets.updateUrl", "");
 user_pref("browser.bookmarks.max_backups", 1);
@@ -37,6 +37,7 @@ user_pref("browser.sessionhistory.max_total_viewers", 1);
 user_pref("browser.sessionstore.max_tabs_undo", 2);
 user_pref("browser.sessionstore.privacy_level", 2);
 user_pref("browser.shell.checkDefaultBrowser", false);
+user_pref("browser.ssl_override_behavior", 1);
 user_pref("browser.startup.page", 0);
 user_pref("browser.tabs.loadDivertedInBackground", true);
 user_pref("browser.uitour.enabled", false);
@@ -149,7 +150,6 @@ user_pref("security.ssl3.rsa_rc4_128_sha", false);
 user_pref("security.ssl.enable_ocsp_stapling", true);
 user_pref("security.ssl.errorReporting.automatic", false);
 user_pref("security.ssl.treat_unsafe_negotiation_as_broken", true);
-user_pref("security.ssl.warn_missing_rfc5746", 1);
 user_pref("security.tls.unrestricted_rc4_fallback", false);
 user_pref("security.tls.version.max", 3);
 user_pref("security.tls.version.min", 1);
